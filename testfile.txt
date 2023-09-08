@@ -1,6 +1,5 @@
 develop
 this is new test line
-
 this is test file
 <<<<<<< HEAD
 =======
