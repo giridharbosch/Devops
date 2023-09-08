@@ -1,8 +1,11 @@
 develop
 this is new test line
 this is test file
+<<<<<<< HEAD
+=======
 this is my first line
 this is my second line
 this is my third line
 new commit
 main
+>>>>>>> 1264fd65a327f30e9dc6c2ca76b307bc0de57cb5
