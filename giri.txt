@@ -1,7 +1,5 @@
 new file
-<<<<<<< HEAD
 second new line
 giridhar1
 new line2
-=======
->>>>>>> 96a233b881d878621ad28863f3f1d0baa29d8d73
+new line giri1
