@@ -4,4 +4,8 @@ this is my second line
 
 new commit
 today commit
+<<<<<<< HEAD
 today my second commit
+=======
+today 3rd commit
+>>>>>>> 444dfbd464997e1de7fc51055723b8dbae78b3d6
