@@ -3,4 +3,7 @@ first line
 second line
 thirmain
 fourth linedevelop
+<<<<<<< HEAD
 new line1
+=======
+>>>>>>> 96a233b881d878621ad28863f3f1d0baa29d8d73
